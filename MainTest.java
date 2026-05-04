@@ -351,3 +351,4 @@ public class MainTest {
 }
 
 // Issue 1: Test cases cho du lieu hop le da duoc thiet ke va kiem tra
+// Closes #2: test cases cho dữ liệu không hợp lệ và ngoại lệ
