@@ -114,3 +114,5 @@ python -m unittest test_black_box -v
 | n=0 | 0 | ValueError |
 | n âm | -5 | ValueError |
 | Kiểu sai | 2.5 | TypeError |
+
+Closes #1: test cases cho dữ liệu hợp lệ
