@@ -349,3 +349,5 @@ public class MainTest {
             () -> Main.tongGiaiThua(-5));
     }
 }
+
+// Issue 1: Test cases cho du lieu hop le da duoc thiet ke va kiem tra
